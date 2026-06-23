@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shoham Liebermann 👋
 
-<!--
-**ShohamLi/ShohamLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on Full-Stack development, Automation, and Machine Learning.
 
-Here are some ideas to get you started:
+I build production web applications, backend APIs, automation workflows, and AI/data-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:** React, TypeScript, Next.js, Tailwind CSS  
+**Backend:** Node.js, Python, FastAPI, REST APIs, SQL, AWS Lambda  
+**Testing & Automation:** Playwright, Vitest, Postman  
+**AI & Data:** TensorFlow, PyTorch, Scikit-learn, Pandas, OpenCV  
+**Tools:** Git, Linux, LogRocket, Mixpanel
+
+## Featured Projects
+
+### Real-Time Bid Decision Service
+Backend service simulating real-time ad bidding decisions.  
+**Tech:** Python, FastAPI, SQL
+
+### Jones Exercise Shoham Upgrade
+Automation project focused on workflow optimization, browser automation, and API interactions.  
+**Tech:** TypeScript, Playwright, Node.js
+
+### Spinal Cobb Angle Regression
+Machine learning project for medical image analysis using X-ray images, segmentation masks, and geometric features.  
+Achieved test MAE of 2.78°.  
+**Tech:** Python, TensorFlow, OpenCV
+
+### Routineland
+Full-stack productivity application.  
+**Tech:** React, TypeScript
+
+## Currently Interested In
+
+Full-Stack Engineering • Backend Engineering • Automation Engineering • Machine Learning Engineering
+
+## Contact
+
+Email: shoham183@gmail.com  
+LinkedIn: www.linkedin.com/in/shoham-liebermann
