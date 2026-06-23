@@ -14,9 +14,9 @@ I build production web applications, backend APIs, automation workflows, and AI/
 
 ## Featured Projects
 
-### Real-Time Bid Decision Service
-Backend service simulating real-time ad bidding decisions.  
-**Tech:** Python, FastAPI, SQL
+### Expression Evaluation Engine
+Expression parser and evaluation engine capable of processing mathematical expressions with support for operator precedence and nested operations.
+**Tech:** Python
 
 ### Jones Exercise Shoham Upgrade
 Automation project focused on workflow optimization, browser automation, and API interactions.  
