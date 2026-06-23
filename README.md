@@ -16,7 +16,6 @@ I build production web applications, backend APIs, automation workflows, and AI/
 
 ### Expression Evaluation Engine
 Expression parser and evaluation engine capable of processing mathematical expressions with support for operator precedence and nested operations.
-
 **Tech:** Python
 
 ### Jones Exercise Shoham Upgrade
